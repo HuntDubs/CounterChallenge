@@ -1,0 +1,14 @@
+Counter Challenge is a coding exercise for the Cox Automotive interview process.
+
+# Purpose
+    Counter Challenge takes a string from the command line as input and returns a formatted version of the string where each word is printed with its first letter, the number of distinct charcters between the first and last letter, and then the last letter
+
+# Setup and Run
+    -Navigate to the project folder in your terminal and run
+        python main.py ~insert input text here~
+    ex. python main.py It was many and many a year ago
+
+# Testing
+    -Navigate to the project folder in your terminal and run
+        python main.py RunTest
+
